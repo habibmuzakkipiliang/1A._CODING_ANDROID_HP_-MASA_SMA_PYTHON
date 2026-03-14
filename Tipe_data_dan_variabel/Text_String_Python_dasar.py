@@ -1,0 +1,21 @@
+teks = "Python is Fun"
+print (teks.upper ()) 
+print (teks.lower ())
+print (teks.title ())
+print (teks.strip ())
+print (teks.replace ("Python", "JavaScript"))
+print (teks.split ())
+print ("Python" in teks)
+print (len (teks))
+print ("\n")
+
+juka = "Minang Pride is Good"
+print (juka.upper ())
+print (juka.lower ())
+print (juka.title ())
+print (juka.strip ())
+print (juka.replace ("Minang", "Piliang"))
+print (juka.split ())
+print ("Minang" in juka)
+print (len (juka))
+print ("\n")
