@@ -1,0 +1,7 @@
+op = ("Lap", "Uap", "afi", "Lokomotif")
+print (op)
+print (op [0])
+print (op [1])
+print (op [2])
+print (op [3])
+print (len (op))
